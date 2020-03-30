@@ -7,6 +7,5 @@ This is a GPS disciplined oscillator with intended use as a high stability clock
 
 ## Schematic
 
-![Alt text](./Docs/GPSDO.svg)
 <img src="./Docs/GPSDO.svg">
 
